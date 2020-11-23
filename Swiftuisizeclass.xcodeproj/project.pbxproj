@@ -11,6 +11,7 @@
 		AB2039FE256BD602005E3387 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2039FD256BD602005E3387 /* ContentView.swift */; };
 		AB203A00256BD604005E3387 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB2039FF256BD604005E3387 /* Assets.xcassets */; };
 		AB203A03256BD604005E3387 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB203A02256BD604005E3387 /* Preview Assets.xcassets */; };
+		AB203A0C256BDCDE005E3387 /* FancybuttonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB203A0B256BDCDE005E3387 /* FancybuttonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AB2039FF256BD604005E3387 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB203A02256BD604005E3387 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB203A04256BD604005E3387 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB203A0B256BDCDE005E3387 /* FancybuttonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancybuttonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				AB2039FB256BD602005E3387 /* SwiftuisizeclassApp.swift */,
 				AB2039FD256BD602005E3387 /* ContentView.swift */,
+				AB203A0B256BDCDE005E3387 /* FancybuttonView.swift */,
 				AB2039FF256BD604005E3387 /* Assets.xcassets */,
 				AB203A04256BD604005E3387 /* Info.plist */,
 				AB203A01256BD604005E3387 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB203A0C256BDCDE005E3387 /* FancybuttonView.swift in Sources */,
 				AB2039FE256BD602005E3387 /* ContentView.swift in Sources */,
 				AB2039FC256BD602005E3387 /* SwiftuisizeclassApp.swift in Sources */,
 			);
